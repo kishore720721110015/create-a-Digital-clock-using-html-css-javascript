@@ -1,0 +1,14 @@
+#clock{
+    margin-left: 625px;
+    margin-top: 250px;
+    border: 1px solid black;
+    width: fit-content;
+    padding: 25px 50px 25px 50px;
+    font-size: 50px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px;
+    background-color: #F6E6CB;
+}
+body{
+    background-color: #E7D4B5;
+}
